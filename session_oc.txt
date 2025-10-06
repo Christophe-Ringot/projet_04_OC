@@ -1,3 +1,0 @@
-courbe précision rappel, optimiser recall (faux negatif)
-over ou odder samping
-robustesse et stabilité 
